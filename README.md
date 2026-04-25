@@ -24,7 +24,8 @@ It’s meant to capture thoughts, goals, or emotions in the moment and let you r
 
 - HTML  
 - CSS  
-- JavaScript  
+- JavaScript
+- React
 
 
 ## What I focused on
