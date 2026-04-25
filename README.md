@@ -44,8 +44,6 @@ I also worked on:
 <img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/8034bca3-bfb2-4725-8498-602717f91d09" />
 
 
-(Add screenshots here)
-
 
 ##  What I’d improve next
 
