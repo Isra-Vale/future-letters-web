@@ -4,7 +4,7 @@ export default function Navbar({ currentPage, navigate }) {
   return (
     <nav className="navbar">
       <div className="navbar-logo" onClick={() => navigate('landing')}>
-        Future Me
+        Future Letters
       </div>
 
       <div className="navbar-tabs">
