@@ -19,15 +19,14 @@ It’s meant to capture thoughts, goals, or emotions in the moment and let you r
 - See a timeline of all your messages  
 - Read unlocked messages when the time comes  
 
----
 
 ## Built with
 
 - HTML  
 - CSS  
-- JavaScript  
+- JavaScript
+- React
 
----
 
 ## What I focused on
 
@@ -40,7 +39,10 @@ I also worked on:
 
 
 ## Preview
-
+<img width="1919" height="901" alt="image" src="https://github.com/user-attachments/assets/faa2e195-d2b6-4456-81ea-feec54a5fa07" />
+<img width="1918" height="902" alt="image" src="https://github.com/user-attachments/assets/8231583a-e0a4-410b-b2a7-045a9105b2eb" />
+<img width="1918" height="904" alt="image" src="https://github.com/user-attachments/assets/1e295d16-5423-4e82-ac18-e66bd17fcdac" />
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/7476eafb-339e-401f-831f-f0c866ad104b" />
 
 
 ## What I’d improve next
@@ -48,8 +50,7 @@ I also worked on:
 If I continue this project, I’d probably add:
 - user accounts so messages are saved online  
 - notifications when a letter unlocks  
-- better mobile design  
-- maybe a dark mode  
+- better mobile design   
 
 
 ## Author
