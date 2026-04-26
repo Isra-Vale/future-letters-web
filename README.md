@@ -22,10 +22,10 @@ It’s meant to capture thoughts, goals, or emotions in the moment and let you r
 
 ## Built with
 
-- HTML  
-- CSS  
-- JavaScript
 - React
+- JavaScript (ES6+)
+- CSS
+- Vite
 
 
 ## What I focused on
